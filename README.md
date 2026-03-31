@@ -1,6 +1,14 @@
-🚀 DeepNav-Agent
-Your DeepSeek-powered co-pilot for maps, web search, and real-world task automation.
+# 🚀 DeepNav-Agent
 
+> **The first DeepSeek-powered agent that actually knows where you are and where to go.**
+
+---
+
+# 🚀 DeepNav-Agent
+Your DeepSeek-powered co-pilot for maps, web search, and real-world task automation.
+> **The first DeepSeek-powered agent that actually knows where you are and where to go.**
+
+---
 🌟 Overview
 DeepNav-Agent is an autonomous AI agent that bridges the gap between Large Language Models and the physical world. By integrating DeepSeek-V3 with the Amap (AutoNavi) Geolocation Engine and DuckDuckGo Web Search, it transforms abstract queries into real-world actions.
 
