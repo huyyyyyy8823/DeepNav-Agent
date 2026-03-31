@@ -1,8 +1,0 @@
-agno>=2.5.11
-fastapi
-uvicorn
-python-dotenv
-pydantic
-requests
-openai
-ddgs
