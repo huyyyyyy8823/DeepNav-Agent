@@ -75,7 +75,7 @@ Whether you are analyzing business competition in a specific city district or pl
 
 ```bash  
 Clone the repository
-git clone https://github.com/your-username/DeepNav-Agent.git
+git clone https://github.com/huyyyyyy8823/DeepNav-Agent.git
 cd DeepNav-Agent
 
 Set up virtual environment
